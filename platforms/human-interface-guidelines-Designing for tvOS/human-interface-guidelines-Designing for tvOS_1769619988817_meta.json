@@ -1,0 +1,294 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Designing for tvOS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          105.375
+        ],
+        [
+          287.41949462890625,
+          105.375
+        ],
+        [
+          287.41949462890625,
+          131.99005126953125
+        ],
+        [
+          49.47265624999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.76367187499999,
+          29.22509765625
+        ],
+        [
+          165.68919372558594,
+          29.22509765625
+        ],
+        [
+          165.68919372558594,
+          47.4385986328125
+        ],
+        [
+          49.76367187499999,
+          47.4385986328125
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.6201171875
+        ],
+        [
+          101.35285949707031,
+          84.6201171875
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.82142639160156,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          161.31829833984375
+        ],
+        [
+          49.47265624999999,
+          161.31829833984375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.7265625,
+          212.0826416015625
+        ],
+        [
+          96.17855072021484,
+          212.0826416015625
+        ],
+        [
+          96.17855072021484,
+          225.32550048828125
+        ],
+        [
+          47.7265625,
+          225.32550048828125
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.30859374999999,
+          392.8564758300781
+        ],
+        [
+          141.82467651367188,
+          392.8564758300781
+        ],
+        [
+          141.82467651367188,
+          410.51361083984375
+        ],
+        [
+          48.30859374999999,
+          410.51361083984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          438
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Designing for tvOS_1769619988817"
+}

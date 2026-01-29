@@ -1,0 +1,522 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Playing audio",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          105.50433349609375
+        ],
+        [
+          222.30575561523438,
+          105.50433349609375
+        ],
+        [
+          222.30575561523438,
+          131.99005126953125
+        ],
+        [
+          49.47265624999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          769.31982421875
+        ],
+        [
+          173.06141662597656,
+          769.31982421875
+        ],
+        [
+          173.06141662597656,
+          788.486930847168
+        ],
+        [
+          49.47265624999999,
+          788.486930847168
+        ]
+      ]
+    },
+    {
+      "title": "Handling interruptions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          148.4154052734375
+        ],
+        [
+          238.15084838867188,
+          148.4154052734375
+        ],
+        [
+          238.15084838867188,
+          166.294921875
+        ],
+        [
+          49.47265624999999,
+          166.294921875
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          518.6637268066406
+        ],
+        [
+          250.1107177734375,
+          518.6637268066406
+        ],
+        [
+          250.1107177734375,
+          536.3208618164062
+        ],
+        [
+          49.47265624999999,
+          536.3208618164062
+        ]
+      ]
+    },
+    {
+      "title": "iOS, iPadOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          555.27685546875
+        ],
+        [
+          139.48428344726562,
+          555.27685546875
+        ],
+        [
+          139.48428344726562,
+          571.740966796875
+        ],
+        [
+          49.47265624999999,
+          571.740966796875
+        ]
+      ]
+    },
+    {
+      "title": "macOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          641.8178100585938
+        ],
+        [
+          108.40312194824219,
+          641.8178100585938
+        ],
+        [
+          108.40312194824219,
+          657.2678070068359
+        ],
+        [
+          49.47265624999999,
+          657.2678070068359
+        ]
+      ]
+    },
+    {
+      "title": "tvOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          713.5499877929688
+        ],
+        [
+          84.27178955078125,
+          713.5499877929688
+        ],
+        [
+          84.27178955078125,
+          728.9999847412109
+        ],
+        [
+          49.47265624999999,
+          728.9999847412109
+        ]
+      ]
+    },
+    {
+      "title": "visionOS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.59960937499999,
+          29.63671875
+        ],
+        [
+          119.22119903564453,
+          29.63671875
+        ],
+        [
+          119.22119903564453,
+          45.33740234375
+        ],
+        [
+          48.59960937499999,
+          45.33740234375
+        ]
+      ]
+    },
+    {
+      "title": "Important",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.49414062499999,
+          156.416015625
+        ],
+        [
+          106.09405517578125,
+          156.416015625
+        ],
+        [
+          106.09405517578125,
+          166.60760498046875
+        ],
+        [
+          58.49414062499999,
+          166.60760498046875
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265624999999,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.47265624999999,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265624999999,
+          168.7646484375
+        ],
+        [
+          209.33413696289062,
+          168.7646484375
+        ],
+        [
+          209.33413696289062,
+          182.83807373046875
+        ],
+        [
+          49.47265624999999,
+          182.83807373046875
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.017578125,
+          253.14697265625
+        ],
+        [
+          96.17855072021484,
+          253.14697265625
+        ],
+        [
+          96.17855072021484,
+          267.81292724609375
+        ],
+        [
+          48.017578125,
+          267.81292724609375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.18164062499999,
+          446.197265625
+        ],
+        [
+          141.82467651367188,
+          446.197265625
+        ],
+        [
+          141.82467651367188,
+          464.58843994140625
+        ],
+        [
+          49.18164062499999,
+          464.58843994140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          559
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1165
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          833
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1104
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          280
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Playing audio_1769620132003"
+}

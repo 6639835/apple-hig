@@ -1,0 +1,363 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Designing for visionOS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.82142639160156,
+          105.50433349609375
+        ],
+        [
+          334.49371337890625,
+          105.50433349609375
+        ],
+        [
+          334.49371337890625,
+          131.99005126953125
+        ],
+        [
+          49.82142639160156,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Important",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          57.91210937499999,
+          262.20263671875
+        ],
+        [
+          106.09405517578125,
+          262.20263671875
+        ],
+        [
+          106.09405517578125,
+          272.55059814453125
+        ],
+        [
+          57.91210937499999,
+          272.55059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.89062499999999,
+          413.267578125
+        ],
+        [
+          165.68919372558594,
+          413.267578125
+        ],
+        [
+          165.68919372558594,
+          432.03326416015625
+        ],
+        [
+          48.89062499999999,
+          432.03326416015625
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.18164062499999,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.18164062499999,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.6201171875
+        ],
+        [
+          101.35285949707031,
+          84.6201171875
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.82142639160156,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          161.31829833984375
+        ],
+        [
+          49.47265624999999,
+          161.31829833984375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.89062499999999,
+          232.154296875
+        ],
+        [
+          96.17855072021484,
+          232.154296875
+        ],
+        [
+          96.17855072021484,
+          246.29339599609375
+        ],
+        [
+          48.89062499999999,
+          246.29339599609375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          425.9635314941406
+        ],
+        [
+          141.82467651367188,
+          425.9635314941406
+        ],
+        [
+          141.82467651367188,
+          443.62066650390625
+        ],
+        [
+          49.47265624999999,
+          443.62066650390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          599
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1098
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Designing for visionOS_1769619991153"
+}

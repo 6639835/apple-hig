@@ -1,0 +1,645 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tap to Pay on iPhone",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.89062499999999,
+          105.50433349609375
+        ],
+        [
+          306.50982666015625,
+          105.50433349609375
+        ],
+        [
+          306.50982666015625,
+          131.99005126953125
+        ],
+        [
+          48.89062499999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.49414062499999,
+          528.5792236328125
+        ],
+        [
+          85.08460235595703,
+          528.5792236328125
+        ],
+        [
+          85.08460235595703,
+          537.98876953125
+        ],
+        [
+          58.49414062499999,
+          537.98876953125
+        ]
+      ]
+    },
+    {
+      "title": "Note",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.49414062499999,
+          705.7024536132812
+        ],
+        [
+          85.08460235595703,
+          705.7024536132812
+        ],
+        [
+          85.08460235595703,
+          715.80908203125
+        ],
+        [
+          58.49414062499999,
+          715.80908203125
+        ]
+      ]
+    },
+    {
+      "title": "Enabling Tap to Pay on iPhone",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          787.9351387023926
+        ],
+        [
+          297.0928955078125,
+          787.9351387023926
+        ],
+        [
+          297.0928955078125,
+          805.5922775268555
+        ],
+        [
+          49.47265624999999,
+          805.5922775268555
+        ]
+      ]
+    },
+    {
+      "title": "Educating merchants",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.82142639160156,
+          748.2064361572266
+        ],
+        [
+          222.33593749999997,
+          748.2064361572266
+        ],
+        [
+          222.33593749999997,
+          766.02685546875
+        ],
+        [
+          49.82142639160156,
+          766.02685546875
+        ]
+      ]
+    },
+    {
+      "title": "Checking out",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          28.8134765625
+        ],
+        [
+          157.36915588378906,
+          28.8134765625
+        ],
+        [
+          157.36915588378906,
+          47.43853759765625
+        ],
+        [
+          49.47265624999999,
+          47.43853759765625
+        ]
+      ]
+    },
+    {
+      "title": "Important",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          58.20312499999999,
+          63.80126953125
+        ],
+        [
+          106.09405517578125,
+          63.80126953125
+        ],
+        [
+          106.09405517578125,
+          74.45916748046875
+        ],
+        [
+          58.20312499999999,
+          74.45916748046875
+        ]
+      ]
+    },
+    {
+      "title": "Displaying results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.18164062499999,
+          342.46875
+        ],
+        [
+          193.8196258544922,
+          342.46875
+        ],
+        [
+          193.8196258544922,
+          360.85260009765625
+        ],
+        [
+          49.18164062499999,
+          360.85260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Additional interactions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.89062499999999,
+          421.08837890625
+        ],
+        [
+          239.91993713378906,
+          421.08837890625
+        ],
+        [
+          239.91993713378906,
+          440.31011962890625
+        ],
+        [
+          48.89062499999999,
+          440.31011962890625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265624999999,
+          752.443359375
+        ],
+        [
+          242.73849487304688,
+          752.443359375
+        ],
+        [
+          242.73849487304688,
+          770.2778854370117
+        ],
+        [
+          49.47265624999999,
+          770.2778854370117
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.76367187499999,
+          84.620361328125
+        ],
+        [
+          101.35285949707031,
+          84.620361328125
+        ],
+        [
+          101.35285949707031,
+          97.86322021484375
+        ],
+        [
+          49.76367187499999,
+          97.86322021484375
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.47265624999999,
+          147.77197265625
+        ],
+        [
+          209.33413696289062,
+          147.77197265625
+        ],
+        [
+          209.33413696289062,
+          161.31829833984375
+        ],
+        [
+          49.47265624999999,
+          161.31829833984375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.47265624999999,
+          219.39404296875
+        ],
+        [
+          141.82467651367188,
+          219.39404296875
+        ],
+        [
+          141.82467651367188,
+          237.25299072265625
+        ],
+        [
+          49.47265624999999,
+          237.25299072265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          422
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          621
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          456
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1112
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1041
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          978
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Tap to Pay on iPhone_1769620192713"
+}

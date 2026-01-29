@@ -1,0 +1,527 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Game controls",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          105.50433349609375
+        ],
+        [
+          235.01487731933594,
+          105.50433349609375
+        ],
+        [
+          235.01487731933594,
+          131.99005126953125
+        ],
+        [
+          49.47265624999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Touch controls",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          644.18701171875
+        ],
+        [
+          176.19969177246094,
+          644.18701171875
+        ],
+        [
+          176.19969177246094,
+          664.3351440429688
+        ],
+        [
+          49.47265624999999,
+          664.3351440429688
+        ]
+      ]
+    },
+    {
+      "title": "Physical controllers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.89062499999999,
+          215.689453125
+        ],
+        [
+          208.48834228515625,
+          215.689453125
+        ],
+        [
+          208.48834228515625,
+          233.39044189453125
+        ],
+        [
+          48.89062499999999,
+          233.39044189453125
+        ]
+      ]
+    },
+    {
+      "title": "Keyboards",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.18164062499999,
+          376.63330078125
+        ],
+        [
+          143.69644165039062,
+          376.63330078125
+        ],
+        [
+          143.69644165039062,
+          395.06329345703125
+        ],
+        [
+          49.18164062499999,
+          395.06329345703125
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.30859374999999,
+          719.92529296875
+        ],
+        [
+          250.1107177734375,
+          719.92529296875
+        ],
+        [
+          250.1107177734375,
+          739.3777389526367
+        ],
+        [
+          48.30859374999999,
+          739.3777389526367
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          97.86273193359375
+        ],
+        [
+          49.82142639160156,
+          97.86273193359375
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.47265624999999,
+          212.082275390625
+        ],
+        [
+          209.33413696289062,
+          212.082275390625
+        ],
+        [
+          209.33413696289062,
+          225.32513427734375
+        ],
+        [
+          49.47265624999999,
+          225.32513427734375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.18164062499999,
+          318.576904296875
+        ],
+        [
+          96.17855072021484,
+          318.576904296875
+        ],
+        [
+          96.17855072021484,
+          331.8197326660156
+        ],
+        [
+          49.18164062499999,
+          331.8197326660156
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.82142639160156,
+          508.763671875
+        ],
+        [
+          141.82467651367188,
+          508.763671875
+        ],
+        [
+          141.82467651367188,
+          528.5957641601562
+        ],
+        [
+          49.82142639160156,
+          528.5957641601562
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          523
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          578
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          529
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          700
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          815
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Game controls_1769620025141"
+}

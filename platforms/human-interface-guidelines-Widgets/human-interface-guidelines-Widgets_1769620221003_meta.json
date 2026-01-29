@@ -1,0 +1,1603 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Widgets",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.82142639160156,
+          176.13287353515625
+        ],
+        [
+          161.56956481933594,
+          176.13287353515625
+        ],
+        [
+          161.56956481933594,
+          202.61859130859375
+        ],
+        [
+          49.82142639160156,
+          202.61859130859375
+        ]
+      ]
+    },
+    {
+      "title": "Anatomy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.18164062499999,
+          699.755859375
+        ],
+        [
+          131.0175018310547,
+          699.755859375
+        ],
+        [
+          131.0175018310547,
+          718.4101486206055
+        ],
+        [
+          49.18164062499999,
+          718.4101486206055
+        ]
+      ]
+    },
+    {
+      "title": "Supported platforms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          474.35546874999994,
+          147.77197265625
+        ],
+        [
+          544.6139526367188,
+          147.77197265625
+        ],
+        [
+          544.6139526367188,
+          155.18115234375
+        ],
+        [
+          474.35546874999994,
+          155.18115234375
+        ]
+      ]
+    },
+    {
+      "title": "Widgets",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          480.46679687499994,
+          201.28271484375
+        ],
+        [
+          508.9145202636719,
+          201.28271484375
+        ],
+        [
+          508.9145202636719,
+          210.19329833984375
+        ],
+        [
+          480.46679687499994,
+          210.19329833984375
+        ]
+      ]
+    },
+    {
+      "title": "System family widgets",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.47265624999999,
+          187.6981201171875
+        ],
+        [
+          211.39512634277344,
+          187.6981201171875
+        ],
+        [
+          211.39512634277344,
+          203.3408203125
+        ],
+        [
+          49.47265624999999,
+          203.3408203125
+        ]
+      ]
+    },
+    {
+      "title": "Accessory widgets",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.89062499999999,
+          713.33935546875
+        ],
+        [
+          187.58383178710938,
+          713.33935546875
+        ],
+        [
+          187.58383178710938,
+          729.5516204833984
+        ],
+        [
+          48.89062499999999,
+          729.5516204833984
+        ]
+      ]
+    },
+    {
+      "title": "They appear on the following devices:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.30859374999999,
+          142.32916259765625
+        ],
+        [
+          212.02943420410156,
+          142.32916259765625
+        ],
+        [
+          212.02943420410156,
+          151.88818359375
+        ],
+        [
+          48.30859374999999,
+          151.88818359375
+        ]
+      ]
+    },
+    {
+      "title": "Appearances",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.30859374999999,
+          328.88525390625
+        ],
+        [
+          141.77581787109375,
+          328.88525390625
+        ],
+        [
+          141.77581787109375,
+          345.5087890625
+        ],
+        [
+          48.30859374999999,
+          345.5087890625
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.47265624999999,
+          508.7313537597656
+        ],
+        [
+          165.68919372558594,
+          508.7313537597656
+        ],
+        [
+          165.68919372558594,
+          526.3884887695312
+        ],
+        [
+          49.47265624999999,
+          526.3884887695312
+        ]
+      ]
+    },
+    {
+      "title": "Updating widget content",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.89062499999999,
+          568.037109375
+        ],
+        [
+          220.86131286621094,
+          568.037109375
+        ],
+        [
+          220.86131286621094,
+          584.501953125
+        ],
+        [
+          48.89062499999999,
+          584.501953125
+        ]
+      ]
+    },
+    {
+      "title": "Adding interactivity",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.89062499999999,
+          123.486328125
+        ],
+        [
+          190.95126342773438,
+          123.486328125
+        ],
+        [
+          190.95126342773438,
+          139.140625
+        ],
+        [
+          48.89062499999999,
+          139.140625
+        ]
+      ]
+    },
+    {
+      "title": "Choosing margins and padding",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.89062499999999,
+          492.28338623046875
+        ],
+        [
+          264.4449157714844,
+          492.28338623046875
+        ],
+        [
+          264.4449157714844,
+          508.35205078125
+        ],
+        [
+          48.89062499999999,
+          508.35205078125
+        ]
+      ]
+    },
+    {
+      "title": "Displaying text in widgets",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.47265624999999,
+          29.88739013671875
+        ],
+        [
+          232.3874969482422,
+          29.88739013671875
+        ],
+        [
+          232.3874969482422,
+          45.33740234375
+        ],
+        [
+          49.47265624999999,
+          45.33740234375
+        ]
+      ]
+    },
+    {
+      "title": "Using color",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.18164062499999,
+          333.82470703125
+        ],
+        [
+          131.98580932617188,
+          333.82470703125
+        ],
+        [
+          131.98580932617188,
+          349.37158203125
+        ],
+        [
+          49.18164062499999,
+          349.37158203125
+        ]
+      ]
+    },
+    {
+      "title": "Rendering modes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.82142639160156,
+          630.6764068603516
+        ],
+        [
+          199.26426696777344,
+          630.6764068603516
+        ],
+        [
+          199.26426696777344,
+          648.3335571289062
+        ],
+        [
+          49.82142639160156,
+          648.3335571289062
+        ]
+      ]
+    },
+    {
+      "title": "Full-color",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.47265624999999,
+          668.3034057617188
+        ],
+        [
+          115.82421874999999,
+          668.3034057617188
+        ],
+        [
+          115.82421874999999,
+          683.7534027099609
+        ],
+        [
+          49.47265624999999,
+          683.7534027099609
+        ]
+      ]
+    },
+    {
+      "title": "Accented",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.89062499999999,
+          55.1572265625
+        ],
+        [
+          123.60929107666016,
+          55.1572265625
+        ],
+        [
+          123.60929107666016,
+          70.71923828125
+        ],
+        [
+          48.89062499999999,
+          70.71923828125
+        ]
+      ]
+    },
+    {
+      "title": "Vibrant",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.59960937499999,
+          203.3408203125
+        ],
+        [
+          104.37468719482422,
+          203.3408203125
+        ],
+        [
+          104.37468719482422,
+          219.14990234375
+        ],
+        [
+          48.59960937499999,
+          219.14990234375
+        ]
+      ]
+    },
+    {
+      "title": "Previews and placeholders",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          49.47265624999999,
+          410.38623046875
+        ],
+        [
+          266.0461120605469,
+          410.38623046875
+        ],
+        [
+          266.0461120605469,
+          428.17047119140625
+        ],
+        [
+          49.47265624999999,
+          428.17047119140625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.82142639160156,
+          443.7275390625
+        ],
+        [
+          250.1107177734375,
+          443.7275390625
+        ],
+        [
+          250.1107177734375,
+          462.38043212890625
+        ],
+        [
+          49.82142639160156,
+          462.38043212890625
+        ]
+      ]
+    },
+    {
+      "title": "iOS, iPadOS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.47265624999999,
+          520.9757690429688
+        ],
+        [
+          131.74093627929688,
+          520.9757690429688
+        ],
+        [
+          131.74093627929688,
+          537.5771484375
+        ],
+        [
+          49.47265624999999,
+          537.5771484375
+        ]
+      ]
+    },
+    {
+      "title": "StandBy and CarPlay",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.76367187499999,
+          397.21435546875
+        ],
+        [
+          180.5239715576172,
+          397.21435546875
+        ],
+        [
+          180.5239715576172,
+          410.7250061035156
+        ],
+        [
+          49.76367187499999,
+          410.7250061035156
+        ]
+      ]
+    },
+    {
+      "title": "visionOS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.89062499999999,
+          293.8974609375
+        ],
+        [
+          119.22119903564453,
+          293.8974609375
+        ],
+        [
+          119.22119903564453,
+          309.6435546875
+        ],
+        [
+          48.89062499999999,
+          309.6435546875
+        ]
+      ]
+    },
+    {
+      "title": "Thresholds and sizes",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.89062499999999,
+          709.2419281005859
+        ],
+        [
+          174.729736328125,
+          709.2419281005859
+        ],
+        [
+          174.729736328125,
+          722.4847793579102
+        ],
+        [
+          48.89062499999999,
+          722.4847793579102
+        ]
+      ]
+    },
+    {
+      "title": "Mounting styles",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          49.18164062499999,
+          413.267578125
+        ],
+        [
+          144.69952392578125,
+          413.267578125
+        ],
+        [
+          144.69952392578125,
+          427.8314514160156
+        ],
+        [
+          49.18164062499999,
+          427.8314514160156
+        ]
+      ]
+    },
+    {
+      "title": "Developer note",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.2017822265625,
+          38.28076171875
+        ],
+        [
+          130.86627197265625,
+          38.28076171875
+        ],
+        [
+          130.86627197265625,
+          49.62835693359375
+        ],
+        [
+          59.2017822265625,
+          49.62835693359375
+        ]
+      ]
+    },
+    {
+      "title": "Treatment styles",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          49.47265624999999,
+          254.017333984375
+        ],
+        [
+          154.03399658203125,
+          254.017333984375
+        ],
+        [
+          154.03399658203125,
+          267.26019287109375
+        ],
+        [
+          49.47265624999999,
+          267.26019287109375
+        ]
+      ]
+    },
+    {
+      "title": "watchOS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.59960937499999,
+          614.2277221679688
+        ],
+        [
+          120.98394775390625,
+          614.2277221679688
+        ],
+        [
+          120.98394775390625,
+          629.6777191162109
+        ],
+        [
+          48.59960937499999,
+          629.6777191162109
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          49.18164062499999,
+          791.958984375
+        ],
+        [
+          165.74954223632812,
+          791.958984375
+        ],
+        [
+          165.74954223632812,
+          810.5571823120117
+        ],
+        [
+          49.18164062499999,
+          810.5571823120117
+        ]
+      ]
+    },
+    {
+      "title": "iOS dimensions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.89062499999999,
+          68.51190185546875
+        ],
+        [
+          163.64683532714844,
+          68.51190185546875
+        ],
+        [
+          163.64683532714844,
+          83.9619140625
+        ],
+        [
+          48.89062499999999,
+          83.9619140625
+        ]
+      ]
+    },
+    {
+      "title": "iPadOS dimensions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.59960937499999,
+          385.68896484375
+        ],
+        [
+          183.64486694335938,
+          385.68896484375
+        ],
+        [
+          183.64486694335938,
+          401.2392578125
+        ],
+        [
+          48.59960937499999,
+          401.2392578125
+        ]
+      ]
+    },
+    {
+      "title": "visionOS dimensions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.435546875,
+          206.22216796875
+        ],
+        [
+          200.5267791748047,
+          206.22216796875
+        ],
+        [
+          200.5267791748047,
+          222.4599609375
+        ],
+        [
+          47.435546875,
+          222.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "watchOS dimensions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          48.59960937499999,
+          400.13494873046875
+        ],
+        [
+          196.06472778320312,
+          400.13494873046875
+        ],
+        [
+          196.06472778320312,
+          415.5849609375
+        ],
+        [
+          48.59960937499999,
+          415.5849609375
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4381103515625
+        ],
+        [
+          142.77392578125,
+          47.4381103515625
+        ],
+        [
+          142.77392578125,
+          65.09527587890625
+        ],
+        [
+          49.82142639160156,
+          65.09527587890625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          49.82142639160156,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          97.86273193359375
+        ],
+        [
+          49.82142639160156,
+          97.86273193359375
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.30859374999999,
+          148.074951171875
+        ],
+        [
+          209.33413696289062,
+          148.074951171875
+        ],
+        [
+          209.33413696289062,
+          161.31781005859375
+        ],
+        [
+          48.30859374999999,
+          161.31781005859375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          49.18164062499999,
+          231.74267578125
+        ],
+        [
+          96.17855072021484,
+          231.74267578125
+        ],
+        [
+          96.17855072021484,
+          246.29241943359375
+        ],
+        [
+          49.18164062499999,
+          246.29241943359375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          49.47265624999999,
+          412.03271484375
+        ],
+        [
+          141.82467651367188,
+          412.03271484375
+        ],
+        [
+          141.82467651367188,
+          432.03277587890625
+        ],
+        [
+          49.47265624999999,
+          432.03277587890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          403
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          503
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          473
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          876
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1271
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1041
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1026
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          937
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          315
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          572
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          803
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1221
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          950
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "TableCell",
+          180
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Widgets_1769620221003"
+}

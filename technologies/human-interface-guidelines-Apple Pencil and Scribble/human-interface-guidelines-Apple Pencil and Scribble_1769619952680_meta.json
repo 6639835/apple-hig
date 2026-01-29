@@ -1,0 +1,584 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Apple Pencil and Scribble",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.89062499999999,
+          105.50433349609375
+        ],
+        [
+          364.9661865234375,
+          105.50433349609375
+        ],
+        [
+          364.9661865234375,
+          131.99005126953125
+        ],
+        [
+          48.89062499999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.18164062499999,
+          579.9119567871094
+        ],
+        [
+          173.06141662597656,
+          579.9119567871094
+        ],
+        [
+          173.06141662597656,
+          597.673828125
+        ],
+        [
+          49.18164062499999,
+          597.673828125
+        ]
+      ]
+    },
+    {
+      "title": "Hover",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.82142639160156,
+          631.01513671875
+        ],
+        [
+          98.0008544921875,
+          631.01513671875
+        ],
+        [
+          98.0008544921875,
+          649.9885864257812
+        ],
+        [
+          49.82142639160156,
+          649.9885864257812
+        ]
+      ]
+    },
+    {
+      "title": "Double tap",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.76367187499999,
+          494.9369201660156
+        ],
+        [
+          137.5397186279297,
+          494.9369201660156
+        ],
+        [
+          137.5397186279297,
+          512.5940551757812
+        ],
+        [
+          49.76367187499999,
+          512.5940551757812
+        ]
+      ]
+    },
+    {
+      "title": "Squeeze",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          29.22509765625
+        ],
+        [
+          128.14981079101562,
+          29.22509765625
+        ],
+        [
+          128.14981079101562,
+          47.43853759765625
+        ],
+        [
+          49.47265624999999,
+          47.43853759765625
+        ]
+      ]
+    },
+    {
+      "title": "Note",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.20312499999999,
+          134.05242919921875
+        ],
+        [
+          85.08460235595703,
+          134.05242919921875
+        ],
+        [
+          85.08460235595703,
+          143.43280029296875
+        ],
+        [
+          58.20312499999999,
+          143.43280029296875
+        ]
+      ]
+    },
+    {
+      "title": "Barrel roll",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.82142639160156,
+          424.38134765625
+        ],
+        [
+          129.85723876953125,
+          424.38134765625
+        ],
+        [
+          129.85723876953125,
+          443.62066650390625
+        ],
+        [
+          49.82142639160156,
+          443.62066650390625
+        ]
+      ]
+    },
+    {
+      "title": "Scribble",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          581.5672912597656
+        ],
+        [
+          116.90632629394531,
+          581.5672912597656
+        ],
+        [
+          116.90632629394531,
+          599.2244262695312
+        ],
+        [
+          49.47265624999999,
+          599.2244262695312
+        ]
+      ]
+    },
+    {
+      "title": "Custom drawing",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.47265624999999,
+          419.853515625
+        ],
+        [
+          191.27220153808594,
+          419.853515625
+        ],
+        [
+          191.27220153808594,
+          438.10260009765625
+        ],
+        [
+          49.47265624999999,
+          438.10260009765625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.82142639160156,
+          693.169921875
+        ],
+        [
+          242.73849487304688,
+          693.169921875
+        ],
+        [
+          242.73849487304688,
+          712.8919067382812
+        ],
+        [
+          49.82142639160156,
+          712.8919067382812
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265624999999,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.47265624999999,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.76367187499999,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.76367187499999,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.30859374999999,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          161.31829833984375
+        ],
+        [
+          48.30859374999999,
+          161.31829833984375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.89062499999999,
+          233.050537109375
+        ],
+        [
+          96.17855072021484,
+          233.050537109375
+        ],
+        [
+          96.17855072021484,
+          246.29339599609375
+        ],
+        [
+          48.89062499999999,
+          246.29339599609375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.76367187499999,
+          425.9635314941406
+        ],
+        [
+          141.82467651367188,
+          425.9635314941406
+        ],
+        [
+          141.82467651367188,
+          443.62066650390625
+        ],
+        [
+          49.76367187499999,
+          443.62066650390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          594
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          625
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1029
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          983
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          998
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Apple Pencil and Scribble_1769619952680"
+}

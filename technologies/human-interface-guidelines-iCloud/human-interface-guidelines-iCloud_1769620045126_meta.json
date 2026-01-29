@@ -1,0 +1,286 @@
+{
+  "table_of_contents": [
+    {
+      "title": "iCloud",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.76367187499999,
+          105.50433349609375
+        ],
+        [
+          140.0791473388672,
+          105.50433349609375
+        ],
+        [
+          140.0791473388672,
+          131.99005126953125
+        ],
+        [
+          49.76367187499999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          548.279296875
+        ],
+        [
+          173.06141662597656,
+          548.279296875
+        ],
+        [
+          173.06141662597656,
+          566.6690673828125
+        ],
+        [
+          49.47265624999999,
+          566.6690673828125
+        ]
+      ]
+    },
+    {
+      "title": "Supported platforms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          472.60937499999994,
+          146.94873046875
+        ],
+        [
+          544.6139526367188,
+          146.94873046875
+        ],
+        [
+          544.6139526367188,
+          155.01470947265625
+        ],
+        [
+          472.60937499999994,
+          155.01470947265625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.7265625,
+          502.58935546875
+        ],
+        [
+          242.73849487304688,
+          502.58935546875
+        ],
+        [
+          242.73849487304688,
+          520.8707885742188
+        ],
+        [
+          47.7265625,
+          520.8707885742188
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.6201171875
+        ],
+        [
+          209.33413696289062,
+          84.6201171875
+        ],
+        [
+          209.33413696289062,
+          97.86297607421875
+        ],
+        [
+          49.82142639160156,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          177.1082763671875
+        ],
+        [
+          141.82467651367188,
+          177.1082763671875
+        ],
+        [
+          141.82467651367188,
+          194.76544189453125
+        ],
+        [
+          49.47265624999999,
+          194.76544189453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          567
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          845
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-iCloud_1769620045126"
+}

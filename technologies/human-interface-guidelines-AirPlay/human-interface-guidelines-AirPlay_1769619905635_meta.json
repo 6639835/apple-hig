@@ -1,0 +1,523 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AirPlay",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.59960937499999,
+          105.50433349609375
+        ],
+        [
+          146.77767944335938,
+          105.50433349609375
+        ],
+        [
+          146.77767944335938,
+          131.99005126953125
+        ],
+        [
+          48.59960937499999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.18164062499999,
+          488.8673095703125
+        ],
+        [
+          173.06141662597656,
+          488.8673095703125
+        ],
+        [
+          173.06141662597656,
+          506.5244445800781
+        ],
+        [
+          49.18164062499999,
+          506.5244445800781
+        ]
+      ]
+    },
+    {
+      "title": "Using AirPlay icons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.89062499999999,
+          579.3600158691406
+        ],
+        [
+          212.2119598388672,
+          579.3600158691406
+        ],
+        [
+          212.2119598388672,
+          597.673828125
+        ],
+        [
+          48.89062499999999,
+          597.673828125
+        ]
+      ]
+    },
+    {
+      "title": "Black AirPlay icon",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.76367187499999,
+          669.4070434570312
+        ],
+        [
+          172.63304138183594,
+          669.4070434570312
+        ],
+        [
+          172.63304138183594,
+          686.17236328125
+        ],
+        [
+          49.76367187499999,
+          686.17236328125
+        ]
+      ]
+    },
+    {
+      "title": "White AirPlay icon",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.89062499999999,
+          133.62310791015625
+        ],
+        [
+          182.38194274902344,
+          133.62310791015625
+        ],
+        [
+          182.38194274902344,
+          149.0731201171875
+        ],
+        [
+          48.89062499999999,
+          149.0731201171875
+        ]
+      ]
+    },
+    {
+      "title": "Custom color AirPlay icon",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          312.0087890625
+        ],
+        [
+          233.92481994628906,
+          312.0087890625
+        ],
+        [
+          233.92481994628906,
+          328.4034423828125
+        ],
+        [
+          49.47265624999999,
+          328.4034423828125
+        ]
+      ]
+    },
+    {
+      "title": "Referring to AirPlay",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          643.3670806884766
+        ],
+        [
+          205.8345947265625,
+          643.3670806884766
+        ],
+        [
+          205.8345947265625,
+          661.0242309570312
+        ],
+        [
+          49.47265624999999,
+          661.0242309570312
+        ]
+      ]
+    },
+    {
+      "title": "Example text",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          258.130859375,
+          32.9296875
+        ],
+        [
+          309.2740783691406,
+          32.9296875
+        ],
+        [
+          309.2740783691406,
+          43.22509765625
+        ],
+        [
+          258.130859375,
+          43.22509765625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.82142639160156,
+          693.5797271728516
+        ],
+        [
+          242.73849487304688,
+          693.5797271728516
+        ],
+        [
+          242.73849487304688,
+          711.2368774414062
+        ],
+        [
+          49.82142639160156,
+          711.2368774414062
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.76367187499999,
+          47.4383544921875
+        ],
+        [
+          142.77392578125,
+          47.4383544921875
+        ],
+        [
+          142.77392578125,
+          65.09552001953125
+        ],
+        [
+          49.76367187499999,
+          65.09552001953125
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.76367187499999,
+          83.1474609375
+        ],
+        [
+          101.35285949707031,
+          83.1474609375
+        ],
+        [
+          101.35285949707031,
+          97.86273193359375
+        ],
+        [
+          49.76367187499999,
+          97.86273193359375
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.30859374999999,
+          190.58056640625
+        ],
+        [
+          209.33413696289062,
+          190.58056640625
+        ],
+        [
+          209.33413696289062,
+          204.35736083984375
+        ],
+        [
+          48.30859374999999,
+          204.35736083984375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.7265625,
+          274.962890625
+        ],
+        [
+          96.17855072021484,
+          274.962890625
+        ],
+        [
+          96.17855072021484,
+          289.33245849609375
+        ],
+        [
+          47.7265625,
+          289.33245849609375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.89062499999999,
+          468.4508361816406
+        ],
+        [
+          141.82467651367188,
+          468.4508361816406
+        ],
+        [
+          141.82467651367188,
+          486.10797119140625
+        ],
+        [
+          48.89062499999999,
+          486.10797119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          977
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          440
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-AirPlay_1769619905635"
+}

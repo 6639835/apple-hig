@@ -1,0 +1,856 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Design Pathway",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          236.30468749999997,
+          111.54931640625
+        ],
+        [
+          365.9686584472656,
+          111.54931640625
+        ],
+        [
+          365.9686584472656,
+          131.090087890625
+        ],
+        [
+          236.30468749999997,
+          131.090087890625
+        ]
+      ]
+    },
+    {
+      "title": "Learn the building blocks of design",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          146.0720672607422,
+          496.00341796875
+        ],
+        [
+          382.5019836425781,
+          496.00341796875
+        ],
+        [
+          382.5019836425781,
+          512.4624328613281
+        ],
+        [
+          146.0720672607422,
+          512.4624328613281
+        ]
+      ]
+    },
+    {
+      "title": "Interface with the HIG",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          146.0720672607422,
+          289.08624267578125
+        ],
+        [
+          298.9764099121094,
+          289.08624267578125
+        ],
+        [
+          298.9764099121094,
+          303.87237548828125
+        ],
+        [
+          146.0720672607422,
+          303.87237548828125
+        ]
+      ]
+    },
+    {
+      "title": "Getting started",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          177.810546875,
+          657.35888671875
+        ],
+        [
+          252.12158203125,
+          657.35888671875
+        ],
+        [
+          252.12158203125,
+          668.8690338134766
+        ],
+        [
+          177.810546875,
+          668.8690338134766
+        ]
+      ]
+    },
+    {
+      "title": "Foundations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          178.1015625,
+          293.8974609375
+        ],
+        [
+          239.0894775390625,
+          293.8974609375
+        ],
+        [
+          239.0894775390625,
+          304.49658203125
+        ],
+        [
+          178.1015625,
+          304.49658203125
+        ]
+      ]
+    },
+    {
+      "title": "Patterns",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          176.646484375,
+          654.06591796875
+        ],
+        [
+          220.77781677246094,
+          654.06591796875
+        ],
+        [
+          220.77781677246094,
+          664.6445465087891
+        ],
+        [
+          176.646484375,
+          664.6445465087891
+        ]
+      ]
+    },
+    {
+      "title": "Components",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          178.392578125,
+          294.462890625
+        ],
+        [
+          241.3745574951172,
+          294.462890625
+        ],
+        [
+          241.3745574951172,
+          304.599609375
+        ],
+        [
+          178.392578125,
+          304.599609375
+        ]
+      ]
+    },
+    {
+      "title": "Inputs",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          176.646484375,
+          667.23779296875
+        ],
+        [
+          211.30703735351562,
+          667.23779296875
+        ],
+        [
+          211.30703735351562,
+          677.8462066650391
+        ],
+        [
+          176.646484375,
+          677.8462066650391
+        ]
+      ]
+    },
+    {
+      "title": "Technologies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          178.392578125,
+          293.07421875
+        ],
+        [
+          242.90383911132812,
+          293.07421875
+        ],
+        [
+          242.90383911132812,
+          304.49658203125
+        ],
+        [
+          178.392578125,
+          304.49658203125
+        ]
+      ]
+    },
+    {
+      "title": "Assemble your toolbox",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          146.0720672607422,
+          519.05419921875
+        ],
+        [
+          303.11859130859375,
+          519.05419921875
+        ],
+        [
+          303.11859130859375,
+          535.1698303222656
+        ],
+        [
+          146.0720672607422,
+          535.1698303222656
+        ]
+      ]
+    },
+    {
+      "title": "Get inspiration from the developer community",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          145.5078125,
+          499.29638671875
+        ],
+        [
+          454.2217712402344,
+          499.29638671875
+        ],
+        [
+          454.2217712402344,
+          516.6866760253906
+        ],
+        [
+          145.5078125,
+          516.6866760253906
+        ]
+      ]
+    },
+    {
+      "title": "Apple Design Awards",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          145.5078125,
+          597.26220703125
+        ],
+        [
+          250.9394073486328,
+          597.26220703125
+        ],
+        [
+          250.9394073486328,
+          608.9829559326172
+        ],
+        [
+          145.5078125,
+          608.9829559326172
+        ]
+      ]
+    },
+    {
+      "title": "10 Questions with Design Evangelism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          145.5078125,
+          637.4988250732422
+        ],
+        [
+          318.5271301269531,
+          637.4988250732422
+        ],
+        [
+          318.5271301269531,
+          646.65673828125
+        ],
+        [
+          145.5078125,
+          646.65673828125
+        ]
+      ]
+    },
+    {
+      "title": "Meet the prototypers",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          145.798828125,
+          686.99560546875
+        ],
+        [
+          250.728759765625,
+          686.99560546875
+        ],
+        [
+          250.728759765625,
+          698.7559051513672
+        ],
+        [
+          145.798828125,
+          698.7559051513672
+        ]
+      ]
+    },
+    {
+      "title": "Go further",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          145.216796875,
+          94.75408935546875
+        ],
+        [
+          218.4162139892578,
+          94.75408935546875
+        ],
+        [
+          218.4162139892578,
+          109.54022216796875
+        ],
+        [
+          145.216796875,
+          109.54022216796875
+        ]
+      ]
+    },
+    {
+      "title": "Find out what's new in design",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          146.962890625,
+          191.8154296875
+        ],
+        [
+          284.9993896484375,
+          191.8154296875
+        ],
+        [
+          284.9993896484375,
+          203.42047119140625
+        ],
+        [
+          146.962890625,
+          203.42047119140625
+        ]
+      ]
+    },
+    {
+      "title": "Browse videos",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          144.92578125,
+          243.6796875
+        ],
+        [
+          223.89938354492188,
+          243.6796875
+        ],
+        [
+          223.89938354492188,
+          255.70025634765625
+        ],
+        [
+          144.92578125,
+          255.70025634765625
+        ]
+      ]
+    },
+    {
+      "title": "Browse developer activities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          146.962890625,
+          281.96044921875
+        ],
+        [
+          275.83978271484375,
+          281.96044921875
+        ],
+        [
+          275.83978271484375,
+          293.19390869140625
+        ],
+        [
+          146.962890625,
+          293.19390869140625
+        ]
+      ]
+    },
+    {
+      "title": "Discover more",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          61.51387023925781,
+          413.7120666503906
+        ],
+        [
+          163.38076782226562,
+          413.7120666503906
+        ],
+        [
+          163.38076782226562,
+          428.4981994628906
+        ],
+        [
+          61.51387023925781,
+          428.4981994628906
+        ]
+      ]
+    },
+    {
+      "title": "Pathways",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          142.888671875,
+          459.78076171875
+        ],
+        [
+          190.3963623046875,
+          459.78076171875
+        ],
+        [
+          190.3963623046875,
+          469.0429992675781
+        ],
+        [
+          142.888671875,
+          469.0429992675781
+        ]
+      ]
+    },
+    {
+      "title": "Meet with Apple",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          141.43359375,
+          557.7595520019531
+        ],
+        [
+          219.01303100585938,
+          557.7595520019531
+        ],
+        [
+          219.01303100585938,
+          567.62548828125
+        ],
+        [
+          141.43359375,
+          567.62548828125
+        ]
+      ]
+    },
+    {
+      "title": "Apple Developer Centers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          141.43359375,
+          661.7908172607422
+        ],
+        [
+          256.31097412109375,
+          661.7908172607422
+        ],
+        [
+          256.31097412109375,
+          673.00048828125
+        ],
+        [
+          141.43359375,
+          673.00048828125
+        ]
+      ]
+    },
+    {
+      "title": "WWDC highlights",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          143.1796875,
+          47.33642578125
+        ],
+        [
+          224.63375854492188,
+          47.33642578125
+        ],
+        [
+          224.63375854492188,
+          57.14410400390625
+        ],
+        [
+          143.1796875,
+          57.14410400390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          371
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          354
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          26
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/design-Design Pathway_1769619887160"
+}

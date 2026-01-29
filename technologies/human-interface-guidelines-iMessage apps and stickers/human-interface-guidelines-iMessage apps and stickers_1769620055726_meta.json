@@ -1,0 +1,428 @@
+{
+  "table_of_contents": [
+    {
+      "title": "iMessage apps and stickers",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.89062499999999,
+          105.375
+        ],
+        [
+          391.182373046875,
+          105.375
+        ],
+        [
+          391.182373046875,
+          131.99005126953125
+        ],
+        [
+          48.89062499999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          571.330078125
+        ],
+        [
+          173.06141662597656,
+          571.330078125
+        ],
+        [
+          173.06141662597656,
+          590.3958740234375
+        ],
+        [
+          49.47265624999999,
+          590.3958740234375
+        ]
+      ]
+    },
+    {
+      "title": "Specifications",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.30859374999999,
+          196.7548828125
+        ],
+        [
+          173.12176513671875,
+          196.7548828125
+        ],
+        [
+          173.12176513671875,
+          214.62969970703125
+        ],
+        [
+          48.30859374999999,
+          214.62969970703125
+        ]
+      ]
+    },
+    {
+      "title": "Icon sizes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.76367187499999,
+          234.59991455078125
+        ],
+        [
+          123.97064208984375,
+          234.59991455078125
+        ],
+        [
+          123.97064208984375,
+          250.0499267578125
+        ],
+        [
+          49.76367187499999,
+          250.0499267578125
+        ]
+      ]
+    },
+    {
+      "title": "Sticker sizes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.89062499999999,
+          599.8820190429688
+        ],
+        [
+          136.49258422851562,
+          599.8820190429688
+        ],
+        [
+          136.49258422851562,
+          615.3320159912109
+        ],
+        [
+          48.89062499999999,
+          615.3320159912109
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.30859374999999,
+          558.56982421875
+        ],
+        [
+          242.73849487304688,
+          558.56982421875
+        ],
+        [
+          242.73849487304688,
+          578.2564086914062
+        ],
+        [
+          48.30859374999999,
+          578.2564086914062
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          83.1474609375
+        ],
+        [
+          101.35285949707031,
+          83.1474609375
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.47265624999999,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          148.075439453125
+        ],
+        [
+          209.33413696289062,
+          161.31829833984375
+        ],
+        [
+          49.47265624999999,
+          161.31829833984375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.59960937499999,
+          244.91455078125
+        ],
+        [
+          96.17855072021484,
+          244.91455078125
+        ],
+        [
+          96.17855072021484,
+          260.08807373046875
+        ],
+        [
+          48.59960937499999,
+          260.08807373046875
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.82142639160156,
+          428.1708068847656
+        ],
+        [
+          141.82467651367188,
+          428.1708068847656
+        ],
+        [
+          141.82467651367188,
+          446.197265625
+        ],
+        [
+          49.82142639160156,
+          446.197265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          587
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          546
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-iMessage apps and stickers_1769620055726"
+}

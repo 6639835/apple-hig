@@ -1,0 +1,367 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Onboarding",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.30859374999999,
+          105.375
+        ],
+        [
+          204.82591247558594,
+          105.375
+        ],
+        [
+          204.82591247558594,
+          131.99005126953125
+        ],
+        [
+          48.30859374999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Onboarding",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          480.75781249999994,
+          202.10595703125
+        ],
+        [
+          520.3359375,
+          202.10595703125
+        ],
+        [
+          520.3359375,
+          211.16162109375
+        ],
+        [
+          480.75781249999994,
+          211.16162109375
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.18164062499999,
+          527.4922790527344
+        ],
+        [
+          173.06141662597656,
+          527.4922790527344
+        ],
+        [
+          173.06141662597656,
+          545.1494140625
+        ],
+        [
+          49.18164062499999,
+          545.1494140625
+        ]
+      ]
+    },
+    {
+      "title": "Additional content",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.76367187499999,
+          134.60009765625
+        ],
+        [
+          203.82884216308594,
+          134.60009765625
+        ],
+        [
+          203.82884216308594,
+          152.27789306640625
+        ],
+        [
+          49.76367187499999,
+          152.27789306640625
+        ]
+      ]
+    },
+    {
+      "title": "Additional requests",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.30859374999999,
+          394.5118713378906
+        ],
+        [
+          214.68637084960938,
+          394.5118713378906
+        ],
+        [
+          214.68637084960938,
+          412.16900634765625
+        ],
+        [
+          48.30859374999999,
+          412.16900634765625
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.30859374999999,
+          640.89404296875
+        ],
+        [
+          242.73849487304688,
+          640.89404296875
+        ],
+        [
+          242.73849487304688,
+          658.8171997070312
+        ],
+        [
+          48.30859374999999,
+          658.8171997070312
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.82142639160156,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.017578125,
+          190.9921875
+        ],
+        [
+          96.17855072021484,
+          190.9921875
+        ],
+        [
+          96.17855072021484,
+          204.35760498046875
+        ],
+        [
+          48.017578125,
+          204.35760498046875
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.18164062499999,
+          383.4761047363281
+        ],
+        [
+          141.82467651367188,
+          383.4761047363281
+        ],
+        [
+          141.82467651367188,
+          401.13323974609375
+        ],
+        [
+          49.18164062499999,
+          401.13323974609375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          621
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          789
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Onboarding_1769620117491"
+}

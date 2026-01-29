@@ -1,0 +1,533 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Discover how apps are using the new design and Liquid Glass",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.53124999999999,
+          88.0869140625
+        ],
+        [
+          527.0023193359375,
+          88.0869140625
+        ],
+        [
+          527.0023193359375,
+          105.742431640625
+        ],
+        [
+          60.53124999999999,
+          105.742431640625
+        ]
+      ]
+    },
+    {
+      "title": "Linearity Curve Graphic Design",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          116.40624999999999,
+          300.89501953125
+        ],
+        [
+          253.67144775390625,
+          300.89501953125
+        ],
+        [
+          253.67144775390625,
+          311.59716796875
+        ],
+        [
+          116.40624999999999,
+          311.59716796875
+        ]
+      ]
+    },
+    {
+      "title": "CardPointers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          116.69726562499999,
+          299.24853515625
+        ],
+        [
+          177.62490844726562,
+          299.24853515625
+        ],
+        [
+          177.62490844726562,
+          311.14825439453125
+        ],
+        [
+          116.69726562499999,
+          311.14825439453125
+        ]
+      ]
+    },
+    {
+      "title": "American Airlines",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          116.40624999999999,
+          591.49951171875
+        ],
+        [
+          196.49005126953125,
+          591.49951171875
+        ],
+        [
+          196.49005126953125,
+          602.6462860107422
+        ],
+        [
+          116.40624999999999,
+          602.6462860107422
+        ]
+      ]
+    },
+    {
+      "title": "OmniFocus 4",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          116.98828124999999,
+          300.4833984375
+        ],
+        [
+          179.05093383789062,
+          300.4833984375
+        ],
+        [
+          179.05093383789062,
+          311.14801025390625
+        ],
+        [
+          116.98828124999999,
+          311.14801025390625
+        ]
+      ]
+    },
+    {
+      "title": "Essayist",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          117.75398254394531,
+          300.07177734375
+        ],
+        [
+          155.93218994140625,
+          300.07177734375
+        ],
+        [
+          155.93218994140625,
+          311.14849853515625
+        ],
+        [
+          117.75398254394531,
+          311.14849853515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "PageHeader",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          202
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          25
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/design-Discover how apps are using the new design and Liquid\u00a0Glass_1769620233330"
+}

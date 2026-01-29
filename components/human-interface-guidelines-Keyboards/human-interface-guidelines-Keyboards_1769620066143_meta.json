@@ -1,0 +1,674 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Keyboards",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265624999999,
+          105.50433349609375
+        ],
+        [
+          189.15081787109375,
+          105.50433349609375
+        ],
+        [
+          189.15081787109375,
+          131.99005126953125
+        ],
+        [
+          49.47265624999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Keyboards",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          480.75781249999994,
+          203.3408203125
+        ],
+        [
+          516.0533447265625,
+          203.3408203125
+        ],
+        [
+          516.0533447265625,
+          210.19329833984375
+        ],
+        [
+          480.75781249999994,
+          210.19329833984375
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.82142639160156,
+          679.998046875
+        ],
+        [
+          173.06141662597656,
+          679.998046875
+        ],
+        [
+          173.06141662597656,
+          697.9940795898438
+        ],
+        [
+          49.82142639160156,
+          697.9940795898438
+        ]
+      ]
+    },
+    {
+      "title": "Important",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.78515624999999,
+          38.28076171875
+        ],
+        [
+          106.09405517578125,
+          38.28076171875
+        ],
+        [
+          106.09405517578125,
+          49.629150390625
+        ],
+        [
+          58.78515624999999,
+          49.629150390625
+        ]
+      ]
+    },
+    {
+      "title": "Standard keyboard shortcuts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.30859374999999,
+          287.72314453125
+        ],
+        [
+          285.2239685058594,
+          287.72314453125
+        ],
+        [
+          285.2239685058594,
+          306.77789306640625
+        ],
+        [
+          48.30859374999999,
+          306.77789306640625
+        ]
+      ]
+    },
+    {
+      "title": "Custom keyboard shortcuts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.30859374999999,
+          643.9185943603516
+        ],
+        [
+          274.4263610839844,
+          643.9185943603516
+        ],
+        [
+          274.4263610839844,
+          661.5757446289062
+        ],
+        [
+          48.30859374999999,
+          661.5757446289062
+        ]
+      ]
+    },
+    {
+      "title": "Tip",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          57.91210937499999,
+          275.37451171875
+        ],
+        [
+          78.11512756347656,
+          275.37451171875
+        ],
+        [
+          78.11512756347656,
+          287.44866943359375
+        ],
+        [
+          57.91210937499999,
+          287.44866943359375
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.47265624999999,
+          644.18701171875
+        ],
+        [
+          250.1107177734375,
+          644.18701171875
+        ],
+        [
+          250.1107177734375,
+          663.7832641601562
+        ],
+        [
+          49.47265624999999,
+          663.7832641601562
+        ]
+      ]
+    },
+    {
+      "title": "visionOS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.59960937499999,
+          722.3786010742188
+        ],
+        [
+          111.47784423828125,
+          722.3786010742188
+        ],
+        [
+          111.47784423828125,
+          737.8285980224609
+        ],
+        [
+          48.59960937499999,
+          737.8285980224609
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.76367187499999,
+          47.4376220703125
+        ],
+        [
+          142.77392578125,
+          47.4376220703125
+        ],
+        [
+          142.77392578125,
+          65.09478759765625
+        ],
+        [
+          49.76367187499999,
+          65.09478759765625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.82142639160156,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          84.38232421875
+        ],
+        [
+          101.35285949707031,
+          97.86224365234375
+        ],
+        [
+          49.82142639160156,
+          97.86224365234375
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.47265624999999,
+          190.1689453125
+        ],
+        [
+          209.33413696289062,
+          190.1689453125
+        ],
+        [
+          209.33413696289062,
+          204.35687255859375
+        ],
+        [
+          49.47265624999999,
+          204.35687255859375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.18164062499999,
+          326.00390625
+        ],
+        [
+          141.82467651367188,
+          326.00390625
+        ],
+        [
+          141.82467651367188,
+          343.74664306640625
+        ],
+        [
+          49.18164062499999,
+          343.74664306640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          751
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          439
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          465
+        ],
+        [
+          "TableCell",
+          87
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          433
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          543
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          644
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          812
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Keyboards_1769620066143"
+}

@@ -1,0 +1,378 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Offering help",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.89062499999999,
+          105.50433349609375
+        ],
+        [
+          218.67100524902344,
+          105.50433349609375
+        ],
+        [
+          218.67100524902344,
+          131.99005126953125
+        ],
+        [
+          48.89062499999999,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Best practices",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.76367187499999,
+          469.65966796875
+        ],
+        [
+          173.06141662597656,
+          469.65966796875
+        ],
+        [
+          173.06141662597656,
+          488.8673095703125
+        ],
+        [
+          49.76367187499999,
+          488.8673095703125
+        ]
+      ]
+    },
+    {
+      "title": "Creating tips",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.18164062499999,
+          791.958984375
+        ],
+        [
+          160.9549560546875,
+          791.958984375
+        ],
+        [
+          160.9549560546875,
+          811.6619205474854
+        ],
+        [
+          49.18164062499999,
+          811.6619205474854
+        ]
+      ]
+    },
+    {
+      "title": "Platform considerations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.47265624999999,
+          249.9439697265625
+        ],
+        [
+          250.1107177734375,
+          249.9439697265625
+        ],
+        [
+          250.1107177734375,
+          267.60113525390625
+        ],
+        [
+          49.47265624999999,
+          267.60113525390625
+        ]
+      ]
+    },
+    {
+      "title": "macOS, visionOS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          325.64459228515625
+        ],
+        [
+          168.4599151611328,
+          325.64459228515625
+        ],
+        [
+          168.4599151611328,
+          341.0946044921875
+        ],
+        [
+          49.82142639160156,
+          341.0946044921875
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.18164062499999,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.18164062499999,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265624999999,
+          212.08251953125
+        ],
+        [
+          209.33413696289062,
+          212.08251953125
+        ],
+        [
+          209.33413696289062,
+          225.568359375
+        ],
+        [
+          49.47265624999999,
+          225.568359375
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.017578125,
+          297.0576171875
+        ],
+        [
+          96.17855072021484,
+          297.0576171875
+        ],
+        [
+          96.17855072021484,
+          310.30047607421875
+        ],
+        [
+          48.017578125,
+          310.30047607421875
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.89062499999999,
+          489.41748046875
+        ],
+        [
+          141.82467651367188,
+          489.41748046875
+        ],
+        [
+          141.82467651367188,
+          507.07623291015625
+        ],
+        [
+          48.89062499999999,
+          507.07623291015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          610
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          768
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          724
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Offering help_1769620114403"
+}

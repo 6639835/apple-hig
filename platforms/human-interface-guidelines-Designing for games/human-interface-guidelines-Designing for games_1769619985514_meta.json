@@ -1,0 +1,559 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Designing for games",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.82142639160156,
+          105.50433349609375
+        ],
+        [
+          306.158203125,
+          105.50433349609375
+        ],
+        [
+          306.158203125,
+          131.99005126953125
+        ],
+        [
+          49.82142639160156,
+          131.99005126953125
+        ]
+      ]
+    },
+    {
+      "title": "Jump into gameplay",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.82142639160156,
+          571.330078125
+        ],
+        [
+          221.24398803710938,
+          571.330078125
+        ],
+        [
+          221.24398803710938,
+          590.3958740234375
+        ],
+        [
+          49.82142639160156,
+          590.3958740234375
+        ]
+      ]
+    },
+    {
+      "title": "Designing for games",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          477.26562499999994,
+          148.18359375
+        ],
+        [
+          546.6199951171875,
+          148.18359375
+        ],
+        [
+          546.6199951171875,
+          156.67010498046875
+        ],
+        [
+          477.26562499999994,
+          156.67010498046875
+        ]
+      ]
+    },
+    {
+      "title": "Look stunning on every display",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.82142639160156,
+          353.994140625
+        ],
+        [
+          298.3528137207031,
+          353.994140625
+        ],
+        [
+          298.3528137207031,
+          371.88861083984375
+        ],
+        [
+          49.82142639160156,
+          371.88861083984375
+        ]
+      ]
+    },
+    {
+      "title": "Enable intuitive interactions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.82142639160156,
+          575.03466796875
+        ],
+        [
+          273.57940673828125,
+          575.03466796875
+        ],
+        [
+          273.57940673828125,
+          593.1546020507812
+        ],
+        [
+          49.82142639160156,
+          593.1546020507812
+        ]
+      ]
+    },
+    {
+      "title": "Welcome everyone",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.7265625,
+          465.955078125
+        ],
+        [
+          203.52401733398438,
+          465.955078125
+        ],
+        [
+          203.52401733398438,
+          485.00469970703125
+        ],
+        [
+          47.7265625,
+          485.00469970703125
+        ]
+      ]
+    },
+    {
+      "title": "Adopt Apple technologies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.89062499999999,
+          263.02587890625
+        ],
+        [
+          266.4935302734375,
+          263.02587890625
+        ],
+        [
+          266.4935302734375,
+          281.39556884765625
+        ],
+        [
+          48.89062499999999,
+          281.39556884765625
+        ]
+      ]
+    },
+    {
+      "title": "Resources",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.82142639160156,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          47.4385986328125
+        ],
+        [
+          142.77392578125,
+          65.09576416015625
+        ],
+        [
+          49.82142639160156,
+          65.09576416015625
+        ]
+      ]
+    },
+    {
+      "title": "Related",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.18164062499999,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          82.73583984375
+        ],
+        [
+          101.35285949707031,
+          97.86297607421875
+        ],
+        [
+          49.18164062499999,
+          97.86297607421875
+        ]
+      ]
+    },
+    {
+      "title": "Developer documentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.47265624999999,
+          169.17626953125
+        ],
+        [
+          209.33413696289062,
+          169.17626953125
+        ],
+        [
+          209.33413696289062,
+          182.83807373046875
+        ],
+        [
+          49.47265624999999,
+          182.83807373046875
+        ]
+      ]
+    },
+    {
+      "title": "Videos",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.18164062499999,
+          253.14697265625
+        ],
+        [
+          96.17855072021484,
+          253.14697265625
+        ],
+        [
+          96.17855072021484,
+          267.81292724609375
+        ],
+        [
+          49.18164062499999,
+          267.81292724609375
+        ]
+      ]
+    },
+    {
+      "title": "Change log",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.18164062499999,
+          446.60888671875
+        ],
+        [
+          141.82467651367188,
+          446.60888671875
+        ],
+        [
+          141.82467651367188,
+          464.58843994140625
+        ],
+        [
+          49.18164062499999,
+          464.58843994140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          601
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          712
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          846
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          645
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          688
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/human-interface-guidelines-Designing for games_1769619985514"
+}

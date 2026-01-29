@@ -1,0 +1,636 @@
+{
+  "table_of_contents": [
+    {
+      "title": "What's new",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.11328124999999,
+          502.4289855957031
+        ],
+        [
+          149.45260620117188,
+          502.4289855957031
+        ],
+        [
+          149.45260620117188,
+          517.2151184082031
+        ],
+        [
+          61.11328124999999,
+          517.2151184082031
+        ]
+      ]
+    },
+    {
+      "title": "Apple Design Resources",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          235.43164062499997,
+          412.85595703125
+        ],
+        [
+          363.5906982421875,
+          412.85595703125
+        ],
+        [
+          363.5906982421875,
+          424.0550537109375
+        ],
+        [
+          235.43164062499997,
+          424.0550537109375
+        ]
+      ]
+    },
+    {
+      "title": "Adopt Liquid Glass",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          249.10937499999997,
+          783.1468467712402
+        ],
+        [
+          349.67730712890625,
+          783.1468467712402
+        ],
+        [
+          349.67730712890625,
+          794.84033203125
+        ],
+        [
+          249.10937499999997,
+          794.84033203125
+        ]
+      ]
+    },
+    {
+      "title": "Explore the new design",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          240.0696258544922,
+          365.51953125
+        ],
+        [
+          361.0540771484375,
+          365.51953125
+        ],
+        [
+          361.0540771484375,
+          377.056396484375
+        ],
+        [
+          240.0696258544922,
+          377.056396484375
+        ]
+      ]
+    },
+    {
+      "title": "Create with Icon Composer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          228.44726562499997,
+          532.22607421875
+        ],
+        [
+          369.0064392089844,
+          532.22607421875
+        ],
+        [
+          369.0064392089844,
+          544.45654296875
+        ],
+        [
+          228.44726562499997,
+          544.45654296875
+        ]
+      ]
+    },
+    {
+      "title": "Discover SF Symbols 7",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          240.96093749999997,
+          723.21826171875
+        ],
+        [
+          360.15875244140625,
+          723.21826171875
+        ],
+        [
+          360.15875244140625,
+          734.5639572143555
+        ],
+        [
+          240.96093749999997,
+          734.5639572143555
+        ]
+      ]
+    },
+    {
+      "title": "Watch design videos",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          61.40429687499999,
+          104.14013671875
+        ],
+        [
+          204.9180450439453,
+          104.14013671875
+        ],
+        [
+          204.9180450439453,
+          119.57366943359375
+        ],
+        [
+          61.40429687499999,
+          119.57366943359375
+        ]
+      ]
+    },
+    {
+      "title": "Developer stories",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          61.51387023925781,
+          713.7509765625
+        ],
+        [
+          176.7141876220703,
+          713.7509765625
+        ],
+        [
+          176.7141876220703,
+          730.0294494628906
+        ],
+        [
+          61.51387023925781,
+          730.0294494628906
+        ]
+      ]
+    },
+    {
+      "title": "Spreading joy with PBJ",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          82.939453125,
+          325.59228515625
+        ],
+        [
+          192.4287567138672,
+          325.59228515625
+        ],
+        [
+          192.4287567138672,
+          336.29443359375
+        ],
+        [
+          82.939453125,
+          336.29443359375
+        ]
+      ]
+    },
+    {
+      "title": "The appealing design of CapWords",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          83.23046875,
+          693.58154296875
+        ],
+        [
+          245.9250030517578,
+          693.58154296875
+        ],
+        [
+          245.9250030517578,
+          704.2500152587891
+        ],
+        [
+          83.23046875,
+          704.2500152587891
+        ]
+      ]
+    },
+    {
+      "title": "The retro wonder of Afterplace",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.23046875,
+          324.357421875
+        ],
+        [
+          227.03199768066406,
+          324.357421875
+        ],
+        [
+          227.03199768066406,
+          336.1816711425781
+        ],
+        [
+          83.23046875,
+          336.1816711425781
+        ]
+      ]
+    },
+    {
+      "title": "Read more",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          83.95710754394531,
+          381.57275390625
+        ],
+        [
+          137.2234649658203,
+          381.57275390625
+        ],
+        [
+          137.2234649658203,
+          391.2403869628906
+        ],
+        [
+          83.95710754394531,
+          391.2403869628906
+        ]
+      ]
+    },
+    {
+      "title": "New to design?",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          254.0306396484375,
+          144.890625
+        ],
+        [
+          347.4236755371094,
+          144.890625
+        ],
+        [
+          347.4236755371094,
+          157.69696044921875
+        ],
+        [
+          254.0306396484375,
+          157.69696044921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          66
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Picture",
+          13
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          393
+        ],
+        [
+          "TableCell",
+          92
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/misc-Let\u2019s talk Liquid Glass_1769619806280"
+}
